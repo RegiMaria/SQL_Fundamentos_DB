@@ -33,4 +33,4 @@ Links:
 
 ### [MySQL](https://www.mysql.com/): Como SGDB
 
-![MER_oficina.png](MER_oficina.png)
+![DER_PROCESSO.png](DER_PROCESSO.png)
